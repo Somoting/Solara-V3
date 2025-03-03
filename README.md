@@ -11,7 +11,7 @@ To start using **Solara Executor**, just follow these simple steps:
 
 **Keywords:** Roblox script executor, advanced executor, Roblox exploits, modding tools, script engine, game enhancements, Roblox cheat tools, modding Roblox 2025.
 
-![Solara Executor Preview](https://github.com/Kidovich/Solara-v3/blob/main/assets/solara.gif)
+![Solara Executor Preview](https://github.com/Somoting/Solara-V3/blob/main/assets/Solara.gif)
 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
